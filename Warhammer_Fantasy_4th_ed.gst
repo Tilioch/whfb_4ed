@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="417a-57eb-6f3e-81c9" name="Warhammer Fantasy 4th ed" revision="6" battleScribeVersion="2.03" authorName="Ulf Bernestedt" authorContact="battlescribe@bernestedt.se" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="417a-57eb-6f3e-81c9" name="Warhammer Fantasy 4th ed" revision="6" battleScribeVersion="2.03" authorName="Tilioch" authorContact="" authorUrl="http://battlescribedata.appspot.com/#/repo/whfb" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="d9e7-add3-773e-ffab" name="Rulebook"/>
   </publications>
